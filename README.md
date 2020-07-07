@@ -29,5 +29,5 @@ C помощью IntelliJ IDEA было создано базовое прило
 100% - отрицательных тестов. 
 
 ## Баг-репорт
-https://github.com/KristinaPelevina/MoneyTransfer/issues/1#issue-652369758
+https://github.com/KristinaPelevina/Precision/issues/1#issue-652410909
 
